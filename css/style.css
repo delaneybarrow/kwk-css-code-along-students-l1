@@ -1,1 +1,18 @@
 /* add CSS class and element and selectors here */
+body {
+  background-image: url('https://media0.giphy.com/media/ZnKdSM5piRLDW/200w.webp');
+  color: white;
+  font-weight: bold;
+  font-size: 100%;
+}
+
+.delaneyExampleClass {
+  font-size: 300%;
+  color: lightyellow;
+  background-color: darkorange;
+  font-family: 'BioRhyme Expanded', serif;
+  border: 5px dotted lightyellow;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  text-align: center;
+}
